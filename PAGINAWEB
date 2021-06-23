@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KEVIN SANI WEB </title> 
+    <link rel="stylesheet" href="mains.css">
+</head>
+<body>
+<h1>KEVIN SANI</h1>
+<ul>
+<li>Me gusta mucho la Pizza , los mangas y comics,menos la pizza de Chocolate</li>
+<li>Ni nada que tenga que ver con sangre</li>
+<li>Soy fan de los perritos </li>
+<li> Y me encantan mucho los videojuegos</li>
+<img src="https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg
+">
+<img src="https://gothamotaku.com/wp-content/uploads/2017/05/Top-mangas.jpg"
+
+</ul>
+</body>
+</html>
